@@ -13,3 +13,5 @@ src/sampleproject.egg-info/dependency_links.txt
 src/sampleproject.egg-info/entry_points.txt
 src/sampleproject.egg-info/requires.txt
 src/sampleproject.egg-info/top_level.txt
+src/subscriber/__init__.py
+src/subscriber/subscriber.py
