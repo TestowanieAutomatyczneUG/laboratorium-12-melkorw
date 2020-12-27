@@ -5,6 +5,8 @@ pyproject.toml
 setup.cfg
 setup.py
 data/data_file
+src/messenger/__init__.py
+src/messenger/messenger.py
 src/random_user/__init__.py
 src/random_user/random_user.py
 src/sampleproject.egg-info/PKG-INFO
